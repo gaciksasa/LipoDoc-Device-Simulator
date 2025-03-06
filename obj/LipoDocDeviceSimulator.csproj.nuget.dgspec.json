@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SasaGac\\source\\repos\\BloodDonationDeviceSimulator\\BloodDonationDeviceSimulator.csproj": {}
+    "C:\\Users\\SasaGac\\source\\repos\\LipoDocDeviceSimulator\\LipoDocDeviceSimulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SasaGac\\source\\repos\\BloodDonationDeviceSimulator\\BloodDonationDeviceSimulator.csproj": {
+    "C:\\Users\\SasaGac\\source\\repos\\LipoDocDeviceSimulator\\LipoDocDeviceSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SasaGac\\source\\repos\\BloodDonationDeviceSimulator\\BloodDonationDeviceSimulator.csproj",
-        "projectName": "BloodDonationDeviceSimulator",
-        "projectPath": "C:\\Users\\SasaGac\\source\\repos\\BloodDonationDeviceSimulator\\BloodDonationDeviceSimulator.csproj",
+        "projectUniqueName": "C:\\Users\\SasaGac\\source\\repos\\LipoDocDeviceSimulator\\LipoDocDeviceSimulator.csproj",
+        "projectName": "LipoDocDeviceSimulator",
+        "projectPath": "C:\\Users\\SasaGac\\source\\repos\\LipoDocDeviceSimulator\\LipoDocDeviceSimulator.csproj",
         "packagesPath": "C:\\Users\\SasaGac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SasaGac\\source\\repos\\BloodDonationDeviceSimulator\\obj\\",
+        "outputPath": "C:\\Users\\SasaGac\\source\\repos\\LipoDocDeviceSimulator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

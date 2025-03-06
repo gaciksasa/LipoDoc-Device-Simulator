@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LipoDocDeviceSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+580484443233aaffdfb993239e6124f815a0abdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("LipoDocDeviceSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LipoDocDeviceSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

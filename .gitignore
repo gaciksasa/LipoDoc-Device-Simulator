@@ -1,0 +1,21 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.cache
+*.log
+*.vsidx
+*.wsuo
+slnx.sqlite
+VSWorkspaceState.json
+DocumentLayout.json
+DocumentLayout.backup.json
+
+# Build and output directories
+bin/
+obj/
+
+# NuGet files
+*.nupkg
+*.nuspec
+*.nuget.*
